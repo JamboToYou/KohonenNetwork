@@ -1,0 +1,11 @@
+C:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\bin\Debug\netcoreapp2.2\Clusterisation.deps.json
+C:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\bin\Debug\netcoreapp2.2\Clusterisation.runtimeconfig.json
+C:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\bin\Debug\netcoreapp2.2\Clusterisation.runtimeconfig.dev.json
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\bin\Debug\netcoreapp2.2\Clusterisation.dll
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\bin\Debug\netcoreapp2.2\Clusterisation.pdb
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.csprojAssemblyReference.cache
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.csproj.CoreCompileInputs.cache
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.AssemblyInfoInputs.cache
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.AssemblyInfo.cs
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.dll
+c:\Jambo\edu\prog\dotnetcore\Test\Clusterisation\obj\Debug\netcoreapp2.2\Clusterisation.pdb
