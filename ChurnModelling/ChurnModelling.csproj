@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\NeuroNet\NeuroNet.csproj" />
-    <ProjectReference Include="..\Clusterization\Clusterization.csproj" />
-    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="../NeuroNet/NeuroNet.csproj" />
+    <ProjectReference Include="../Clusterization/Clusterization.csproj" />
+    <ProjectReference Include="../Common/Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

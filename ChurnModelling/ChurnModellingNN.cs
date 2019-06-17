@@ -8,6 +8,7 @@ using Common.Entities;
 using Common.Utils;
 using NeuroNet.Entities;
 using Newtonsoft.Json;
+using System.Threading;
 
 namespace ChurnModelling
 {
@@ -29,7 +30,15 @@ namespace ChurnModelling
 		public void Study()
 		{
 			var inputs = Normalize();
-			_nn.Study(inputs);
+			_nn.Titles = _titles.Where(el => !_notInputColumns.Contains(el)).ToArray();
+			
+			for (int i = 0; i < 10; i++)
+			{
+				Console.Clear();
+				Console.WriteLine($"[processing]: epoche: {i}");
+				_nn.Study(inputs);
+			}
+
 			Save();
 		}
 
@@ -54,7 +63,7 @@ namespace ChurnModelling
 				tmp = sr.ReadToEnd();
 			}
 
-			Clusters = JsonConvert.DeserializeObject<List<Cluster>>(tmp);
+			_nn.NeuronWeights = JsonConvert.DeserializeObject<Dot[][]>(tmp);
 		}
 
 		public void Execute()
