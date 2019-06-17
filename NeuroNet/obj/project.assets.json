@@ -260,11 +260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/NeuroNet.csproj",
+      "projectUniqueName": "/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/NeuroNet.csproj",
       "projectName": "NeuroNet",
-      "projectPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/NeuroNet.csproj",
+      "projectPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/NeuroNet.csproj",
       "packagesPath": "/home/jambo/.nuget/packages/",
-      "outputPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/obj/",
+      "outputPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -281,11 +281,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/Clusterization.csproj": {
-              "projectPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/Clusterization.csproj"
+            "/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/Clusterization.csproj": {
+              "projectPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/Clusterization.csproj"
             },
-            "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/Common.csproj": {
-              "projectPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/Common.csproj"
+            "/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/Common.csproj": {
+              "projectPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/Common.csproj"
             }
           }
         }

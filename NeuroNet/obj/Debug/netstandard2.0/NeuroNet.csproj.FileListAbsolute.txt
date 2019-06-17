@@ -26,3 +26,17 @@ C:/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNe
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.csproj.CopyComplete
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.dll
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/NeuroNet.deps.json
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/NeuroNet.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/NeuroNet.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/Clusterization.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/Common.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/Clusterization.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/bin/Debug/netstandard2.0/Common.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.csprojAssemblyReference.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.csproj.CoreCompileInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.AssemblyInfoInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.AssemblyInfo.cs
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.csproj.CopyComplete
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/NeuroNet/obj/Debug/netstandard2.0/NeuroNet.pdb

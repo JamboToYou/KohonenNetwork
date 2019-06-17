@@ -5,6 +5,6 @@ var container = document.getElementById("container"),
 
 var fileInput = document.getElementById("entireDots");
 
-container.width = 800;
-container.height = 500;
+container.width = 900;
+container.height = 1250;
 

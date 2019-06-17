@@ -16,3 +16,12 @@ C:/Jambo/edu/prog/neuro/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.pd
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.dll
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/bin/Debug/netstandard2.0/Common.deps.json
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/bin/Debug/netstandard2.0/Common.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/bin/Debug/netstandard2.0/Common.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.csprojAssemblyReference.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.AssemblyInfoInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.AssemblyInfo.cs
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/Debug/netstandard2.0/Common.pdb

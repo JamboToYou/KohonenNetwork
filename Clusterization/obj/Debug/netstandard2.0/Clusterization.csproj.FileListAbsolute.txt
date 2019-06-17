@@ -22,3 +22,15 @@ C:/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/C
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.csproj.CopyComplete
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.dll
 /home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/bin/Debug/netstandard2.0/Clusterization.deps.json
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/bin/Debug/netstandard2.0/Clusterization.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/bin/Debug/netstandard2.0/Clusterization.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/bin/Debug/netstandard2.0/Common.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/bin/Debug/netstandard2.0/Common.pdb
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.csprojAssemblyReference.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.csproj.CoreCompileInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.AssemblyInfoInputs.cache
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.AssemblyInfo.cs
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.csproj.CopyComplete
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.dll
+/home/jambo/Jambo/edu/prog/KohonenNetwork/Clusterization/obj/Debug/netstandard2.0/Clusterization.pdb

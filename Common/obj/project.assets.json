@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/Common.csproj",
+      "projectUniqueName": "/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/Common.csproj",
       "projectName": "Common",
-      "projectPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/Common.csproj",
+      "projectPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/Common.csproj",
       "packagesPath": "/home/jambo/.nuget/packages/",
-      "outputPath": "/home/jambo/Jambo/edu/prog/neuro/KohonenNetwork/Common/obj/",
+      "outputPath": "/home/jambo/Jambo/edu/prog/KohonenNetwork/Common/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

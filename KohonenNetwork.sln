@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroNet", "NeuroNet\NeuroNet.csproj", "{214894D6-00E7-49D1-B7F0-DBA557DBDD8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroNet", "NeuroNet/NeuroNet.csproj", "{214894D6-00E7-49D1-B7F0-DBA557DBDD8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clusterization", "Clusterization\Clusterization.csproj", "{9FA32CC4-D674-45E9-B118-EA603AD878BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clusterization", "Clusterization/Clusterization.csproj", "{9FA32CC4-D674-45E9-B118-EA603AD878BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{1A697DC1-A053-40FA-9123-C089A8CD2BF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common/Common.csproj", "{1A697DC1-A053-40FA-9123-C089A8CD2BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurnModelling", "ChurnModelling\ChurnModelling.csproj", "{FA1EEF7A-0374-4D1E-A23A-9C17DC94B27A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurnModelling", "ChurnModelling/ChurnModelling.csproj", "{FA1EEF7A-0374-4D1E-A23A-9C17DC94B27A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
